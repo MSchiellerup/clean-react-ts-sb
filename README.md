@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Clone this repository
+
+To clone this repository, use the following command:
+`git clone https://github.com/MSchiellerup/clean-react-ts-sb.git`
+
 ## Available Scripts
 
 In the project directory, you can run:
