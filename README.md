@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clone this repository
 
-To clone this repository, use the following command:
+To clone this repository, use the following command:\
 `git clone https://github.com/MSchiellerup/clean-react-ts-sb.git`
 
 ## Available Scripts
